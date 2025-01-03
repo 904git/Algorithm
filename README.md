@@ -33,4 +33,34 @@
 |28|[배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)|2025.01.02|[🔗](https://blog.naver.com/904log/223713099591)|
 |29|[배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)|2025.01.02|[🔗](https://blog.naver.com/904log/223713101738)|
 |30|[문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)|2025.01.02|[🔗](https://blog.naver.com/904log/223713104043)|
+|31|[편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)|2025.01.03|[🔗](https://blog.naver.com/904log/223713501183)|
+|32|[공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936)|2025.01.03|[🔗](https://blog.naver.com/904log/223713506323)|
+|33|[최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847)|2025.01.03|[🔗](https://blog.naver.com/904log/223713513300)|
+|34|[더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939)|2025.01.03|[🔗](https://blog.naver.com/904log/223713525621)|
+|35|[홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944)|2025.01.03|[🔗](https://blog.naver.com/904log/223713529534)|
+|36|[가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)|2025.01.03|[🔗](https://blog.naver.com/904log/223713535692)|
+|37|[숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851)|2025.01.03|[🔗](https://blog.naver.com/904log/223713542278)|
+|38|[대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)|2025.01.03|[🔗](https://blog.naver.com/904log/223713549800)|
+|39|[가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)|2025.01.03|[🔗](https://blog.naver.com/904log/223713556125)|
+|40|[n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905)|2025.01.03|[🔗](https://blog.naver.com/904log/223713571518)|
+|41|[배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)|2025.01.03|[🔗](https://blog.naver.com/904log/223713584696)|
+|42|[공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869)|2025.01.03|[🔗](https://blog.naver.com/904log/223713662295)|
+|43|[특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873)|2025.01.03|[🔗](https://blog.naver.com/904log/223713665126)|
+|44|[A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874)|2025.01.03|[🔗](https://blog.naver.com/904log/223713667537)|
+|45|[배열에서 문자열 대소문자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875)|2025.01.03|[🔗](https://blog.naver.com/904log/223713669945)|
+|46|[소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876)|2025.01.03|[🔗](https://blog.naver.com/904log/223713672311)|
+|47|[대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877)|2025.01.03|[🔗](https://blog.naver.com/904log/223713674569)|
+|48|[길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879)|2025.01.03|[🔗](https://blog.naver.com/904log/223713676732)|
+|49|[조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882)|2025.01.03|[🔗](https://blog.naver.com/904log/223713679627)|
+|50|[n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884)|2025.01.03|[🔗](https://blog.naver.com/904log/223713682157)|
+|51|[할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885)|2025.01.03|[🔗](https://blog.naver.com/904log/223713685590)|
+|52|[5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886)|2025.01.03|[🔗](https://blog.naver.com/904log/223713687797)|
+|53|[n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888)|2025.01.03|[🔗](https://blog.naver.com/904log/223713690144)|
+|54|[n 번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889)|2025.01.03|[🔗](https://blog.naver.com/904log/223713692580)|
+|55|[순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891)|2025.01.03|[🔗](https://blog.naver.com/904log/223713695233)|
+|56|[n 번째 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892)|2025.01.03|[🔗](https://blog.naver.com/904log/223713697660)|
+|57|[첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896)|2025.01.03|[🔗](https://blog.naver.com/904log/223713701046)|
+|58|[카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899)|2025.01.03|[🔗](https://blog.naver.com/904log/223713703212)|
+|59|[접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906)|2025.01.03|[🔗](https://blog.naver.com/904log/223713708168)|
+|60|[문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907)|2025.01.03|[🔗](https://blog.naver.com/904log/223713714330)|
 ### 백준
