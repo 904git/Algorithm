@@ -143,4 +143,24 @@
 |138|[9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914)|Lv.0|2025.01.07|[🔗](https://blog.naver.com/904log/223717359631)|
 |139|[주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930)|Lv.0|2025.01.07|[🔗](https://blog.naver.com/904log/223717364522)|
 |140|[덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947)|Lv.0|2025.01.07|[🔗](https://blog.naver.com/904log/223717366713)|
+|141|[간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865)|Lv.0|2025.01.08|[🔗](https://blog.naver.com/904log/223718599662)|
+|142|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|Lv.1|2025.01.08|[🔗](https://blog.naver.com/904log/223718602454)|
+|143|[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|Lv.1|2025.01.08|[🔗](https://blog.naver.com/904log/223718604243)|
+|144|[자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)|Lv.1|2025.01.08|[🔗](https://blog.naver.com/904log/223718606822)|
+|145|[정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)|Lv.1|2025.01.08|[🔗](https://blog.naver.com/904log/223718611586)|
+|146|[정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)|Lv.1|2025.01.08|[🔗](https://blog.naver.com/904log/223718613539)|
+|147|[하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|Lv.1|2025.01.08|[🔗](https://blog.naver.com/904log/223718615269)|
+|148|[합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)|Lv.0|2025.01.08|[🔗](https://blog.naver.com/904log/223718616748)|
+|149|[이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829)|Lv.0|2025.01.08|[🔗](https://blog.naver.com/904log/223718620147)|
+|150|[날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838)|Lv.0|2025.01.08|[🔗](https://blog.naver.com/904log/223718626987)|
+|151|[문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866)|Lv.0|2025.01.08|[🔗](https://blog.naver.com/904log/223718632477)|
+|152|[수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883)|Lv.0|2025.01.08|[🔗](https://blog.naver.com/904log/223718635275)|
+|153|[글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900)|Lv.0|2025.01.08|[🔗](https://blog.naver.com/904log/223718636900)|
+|154|[세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904)|Lv.0|2025.01.08|[🔗](https://blog.naver.com/904log/223718639481)|
+|155|[등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931)|Lv.0|2025.01.08|[🔗](https://blog.naver.com/904log/223718641649)|
+|156|[문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942)|Lv.0|2025.01.08|[🔗](https://blog.naver.com/904log/223718643147)|
+|157|[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)|Lv.1|2025.01.08|[🔗](https://blog.naver.com/904log/223718645134)|
+|158|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|Lv.1|2025.01.08|[🔗](https://blog.naver.com/904log/223718646928)|
+|159|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|Lv.1|2025.01.08|[🔗](https://blog.naver.com/904log/223718661203)|
+|160|[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)|Lv.1|2025.01.08|[🔗](https://blog.naver.com/904log/223718749249)|
 ### 백준
