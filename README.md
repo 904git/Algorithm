@@ -163,4 +163,24 @@
 |158|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|Lv.1|2025.01.08|[🔗](https://blog.naver.com/904log/223718646928)|
 |159|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|Lv.1|2025.01.08|[🔗](https://blog.naver.com/904log/223718661203)|
 |160|[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)|Lv.1|2025.01.08|[🔗](https://blog.naver.com/904log/223718749249)|
+|161|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051#)|Lv.1|2025.01.09|[🔗](https://blog.naver.com/904log/223719860611)|
+|162|[모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719865345)|
+|163|[2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719882170)|
+|164|[중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719884997)|
+|165|[배열의 길이를 2의 거듭제곱으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181857)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719887198)|
+|166|[빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719889518)|
+|167|[문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719900091)|
+|168|[특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719907235)|
+|169|[1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719909658)|
+|170|[문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719912581)|
+|171|[배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719915691)|
+|172|[수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719917954)|
+|173|[k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719920175)|
+|174|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|Lv.1|2025.01.09|[🔗](https://blog.naver.com/904log/223719922424)|
+|175|[핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|Lv.1|2025.01.09|[🔗](https://blog.naver.com/904log/223719924405)|
+|176|[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|Lv.1|2025.01.09|[🔗](https://blog.naver.com/904log/223719926520)|
+|177|[진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719931930)|
+|178|[팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719934239)|
+|179|[숨어잇는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719936611)|
+|180|[A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)|Lv.0|2025.01.09|[🔗](https://blog.naver.com/904log/223719939671)|
 ### 백준
