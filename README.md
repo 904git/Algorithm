@@ -203,4 +203,24 @@
 |198|[특수문자 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181948)|Lv.0|2025.01.10|[🔗](https://blog.naver.com/904log/223721656544)|
 |199|[[PCCE 기출문제] 5번 / 산책](https://school.programmers.co.kr/learn/courses/30/lessons/250129)|Lv.0|2025.01.10|[🔗](https://blog.naver.com/904log/223721661511)|
 |200|[문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|Lv.1|2025.01.10|[🔗](https://blog.naver.com/904log/223721663562)|
+|201|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)|Lv.1|2025.01.13|[🔗](https://blog.naver.com/904log/223724499303)|
+|202|[소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724522886)|
+|203|[이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724529326)|
+|204|[잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724532399)|
+|205|[배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724534698)|
+|206|[왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724537140)|
+|207|[문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724538967)|
+|208|[공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724544036)|
+|209|[문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724548836)|
+|210|[두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724554094)|
+|211|[문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724557529)|
+|212|[배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724559491)|
+|213|[조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724561888)|
+|214|[문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|Lv.1|2025.01.13|[🔗](https://blog.naver.com/904log/223724564330)|
+|215|[행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)|Lv.1|2025.01.13|[🔗](https://blog.naver.com/904log/223724567047)|
+|216|[삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724569128)|
+|217|[영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724570820)|
+|218|[무작위로 k개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724572806)|
+|219|[수여로가 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724579318)|
+|220|[[PCCE 기출문제] 4번 / 저축](https://school.programmers.co.kr/learn/courses/30/lessons/250130)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724581905)|
 ### 백준
