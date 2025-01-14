@@ -223,4 +223,14 @@
 |218|[무작위로 k개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724572806)|
 |219|[수여로가 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724579318)|
 |220|[[PCCE 기출문제] 4번 / 저축](https://school.programmers.co.kr/learn/courses/30/lessons/250130)|Lv.0|2025.01.13|[🔗](https://blog.naver.com/904log/223724581905)|
+|221|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|Lv.2|2025.01.14|[🔗](https://blog.naver.com/904log/223725518629)|
+|222|[직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)|Lv.1|2025.01.14|[🔗](https://blog.naver.com/904log/223725520833)|
+|223|[구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)|Lv.0|2025.01.14|[🔗](https://blog.naver.com/904log/223725541433)|
+|224|[[PCCE 기출문제] 4번 / 병과분류](https://school.programmers.co.kr/learn/courses/30/lessons/340204)|Lv.0|2025.01.14|[🔗](https://blog.naver.com/904log/223725547132)|
+|225|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|Lv.2|2025.01.14|[🔗](https://blog.naver.com/904log/223725551122)|
+|226|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|Lv.2|2025.01.14|[🔗](https://blog.naver.com/904log/223725559591)|
+|227|[정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830)|Lv.0|2025.01.14|[🔗](https://blog.naver.com/904log/223725562654)|
+|228|[그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)|Lv.0|2025.01.14|[🔗](https://blog.naver.com/904log/223725570977)|
+|229|[문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943)|Lv.0|2025.01.14|[🔗](https://blog.naver.com/904log/223725573742)|
+|230|[a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951)|Lv.0|2025.01.14|[🔗](https://blog.naver.com/904log/223725575552)|
 ### 백준
