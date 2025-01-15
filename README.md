@@ -233,4 +233,14 @@
 |228|[그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)|Lv.0|2025.01.14|[🔗](https://blog.naver.com/904log/223725570977)|
 |229|[문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943)|Lv.0|2025.01.14|[🔗](https://blog.naver.com/904log/223725573742)|
 |230|[a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951)|Lv.0|2025.01.14|[🔗](https://blog.naver.com/904log/223725575552)|
+|231|[[PCCE 기출문제] 3번 / 나이 계산](https://school.programmers.co.kr/learn/courses/30/lessons/250131)|Lv.0|2025.01.15|[🔗](https://blog.naver.com/904log/223726624239)|
+|232|[[PCCE 기출문제] 2번 / 피타고라스의 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250132)|Lv.0|2025.01.15|[🔗](https://blog.naver.com/904log/223726626221)|
+|233|[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|Lv.1|2025.01.15|[🔗](https://blog.naver.com/904log/223726628147)|
+|234|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|Lv.2|2025.01.15|[🔗](https://blog.naver.com/904log/223726630525)|
+|235|[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)|Lv.1|2025.01.15|[🔗](https://blog.naver.com/904log/223726636714)|
+|236|[캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)|Lv.0|2025.01.15|[🔗](https://blog.naver.com/904log/223726639189)|
+|237|[외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)|Lv.0|2025.01.15|[🔗](https://blog.naver.com/904log/223726642606)|
+|238|[종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)|Lv.0|2025.01.15|[🔗](https://blog.naver.com/904log/223726644315)|
+|239|[[PCCE 기출문제] 7번 / 가습기](https://school.programmers.co.kr/learn/courses/30/lessons/250127)|Lv.0|2025.01.15|[🔗](https://blog.naver.com/904log/223726647601)|
+|240|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|Lv.2|2025.01.15|[🔗](https://blog.naver.com/904log/223726650096)|
 ### 백준
