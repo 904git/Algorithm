@@ -243,4 +243,14 @@
 |238|[종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)|Lv.0|2025.01.15|[🔗](https://blog.naver.com/904log/223726644315)|
 |239|[[PCCE 기출문제] 7번 / 가습기](https://school.programmers.co.kr/learn/courses/30/lessons/250127)|Lv.0|2025.01.15|[🔗](https://blog.naver.com/904log/223726647601)|
 |240|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|Lv.2|2025.01.15|[🔗](https://blog.naver.com/904log/223726650096)|
+|241|[직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)|Lv.0|2025.01.16|[🔗](https://blog.naver.com/904log/223727732165)|
+|242|[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)|Lv.0|2025.01.16|[🔗](https://blog.naver.com/904log/223727737267)|
+|243|[크기가 작은 부분 문자역](https://school.programmers.co.kr/learn/courses/30/lessons/147355)|Lv.1|2025.01.16|[🔗](https://blog.naver.com/904log/223727740184)|
+|244|[전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)|Lv.0|2025.01.16|[🔗](https://blog.naver.com/904log/223727744478)|
+|245|[대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)|Lv.0|2025.01.16|[🔗](https://blog.naver.com/904log/223727746104)|
+|246|[[PCCE 기출문제] 2번 / 각도 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/340206)|Lv.0|2025.01.16|[🔗](https://blog.naver.com/904log/223727748520)|
+|247|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|Lv.2|2025.01.16|[🔗](https://blog.naver.com/904log/223727753794)|
+|248|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|Lv.1|2025.01.16|[🔗](https://blog.naver.com/904log/223727758260)|
+|249|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|Lv.1|2025.01.16|[🔗](https://blog.naver.com/904log/223727764781)|
+|250|[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)|Lv.1|2025.01.16|[🔗](https://blog.naver.com/904log/223727766718)|
 ### 백준
