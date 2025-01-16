@@ -253,4 +253,14 @@
 |248|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|Lv.1|2025.01.16|[🔗](https://blog.naver.com/904log/223727758260)|
 |249|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|Lv.1|2025.01.16|[🔗](https://blog.naver.com/904log/223727764781)|
 |250|[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)|Lv.1|2025.01.16|[🔗](https://blog.naver.com/904log/223727766718)|
+|251|[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|Lv.1|2025.01.16|[🔗](https://blog.naver.com/904log/223728078076)|
+|252|[[PCCE 기출문제] 5번 / 심폐소생술](https://school.programmers.co.kr/learn/courses/30/lessons/340203)|Lv.0|2025.01.16|[🔗](https://blog.naver.com/904log/223728080276)|
+|253|[치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)|Lv.0|2025.01.16|[🔗](https://blog.naver.com/904log/223728081516)|
+|254|[등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)|Lv.0|2025.01.16|[🔗](https://blog.naver.com/904log/223728084667)|
+|255|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|Lv.2|2025.01.16|[🔗](https://blog.naver.com/904log/223728086764)|
+|256|[저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)|Lv.0|2025.01.16|[🔗](https://blog.naver.com/904log/223728090049)|
+|257|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|Lv.2|2025.01.16|[🔗](https://blog.naver.com/904log/223728091706)|
+|258|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|Lv.2|2025.01.16|[🔗](https://blog.naver.com/904log/223728093256)|
+|259|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|Lv.1|2025.01.16|[🔗](https://blog.naver.com/904log/223728098508)|
+|260|[유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)|Lv.0|2025.01.16|[🔗](https://blog.naver.com/904log/223728100085)|
 ### 백준
