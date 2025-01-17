@@ -263,4 +263,14 @@
 |258|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|Lv.2|2025.01.16|[🔗](https://blog.naver.com/904log/223728093256)|
 |259|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|Lv.1|2025.01.16|[🔗](https://blog.naver.com/904log/223728098508)|
 |260|[유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)|Lv.0|2025.01.16|[🔗](https://blog.naver.com/904log/223728100085)|
+|261|[문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)|Lv.0|2025.01.17|[🔗](https://blog.naver.com/904log/223728541163)|
+|262|[[PCCE 기출문제] 8번 / 닉네임 규칙](https://school.programmers.co.kr/learn/courses/30/lessons/340200)|Lv.0|2025.01.17|[🔗](https://blog.naver.com/904log/223728543474)|
+|263|[[PCCE 기출문제] 6번 / 가채점](https://school.programmers.co.kr/learn/courses/30/lessons/250128)|Lv.0|2025.01.17|[🔗](https://blog.naver.com/904log/223728546584)|
+|264|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|Lv.1|2025.01.17|[🔗](https://blog.naver.com/904log/223728549382)|
+|265|[특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)|Lv.0|2025.01.17|[🔗](https://blog.naver.com/904log/223728551443)|
+|266|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)|Lv.1|2025.01.17|[🔗](https://blog.naver.com/904log/223728554577)|
+|267|[배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921)|Lv.0|2025.01.17|[🔗](https://blog.naver.com/904log/223728558514)|
+|268|[코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932)|Lv.0|2025.01.17|[🔗](https://blog.naver.com/904log/223728560963)|
+|269|[[PCCE 기출문제] 3번 / 수 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/340205)|Lv.0|2025.01.17|[🔗](https://blog.naver.com/904log/223728562782)|
+|270|[[PCCE 기출문제] 1번 / 문자 출력](https://school.programmers.co.kr/learn/courses/30/lessons/340207)|Lv.0|2025.01.17|[🔗](https://blog.naver.com/904log/223728564612)|
 ### 백준
