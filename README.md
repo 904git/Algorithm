@@ -273,4 +273,9 @@
 |268|[코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932)|Lv.0|2025.01.17|[🔗](https://blog.naver.com/904log/223728560963)|
 |269|[[PCCE 기출문제] 3번 / 수 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/340205)|Lv.0|2025.01.17|[🔗](https://blog.naver.com/904log/223728562782)|
 |270|[[PCCE 기출문제] 1번 / 문자 출력](https://school.programmers.co.kr/learn/courses/30/lessons/340207)|Lv.0|2025.01.17|[🔗](https://blog.naver.com/904log/223728564612)|
+|271|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|Lv.2|2025.01.17|[🔗](https://blog.naver.com/904log/223729183456)|
+|272|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|Lv.1|2025.01.17|[🔗](https://blog.naver.com/904log/223729187430)|
+|273|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|Lv.1|2025.01.17|[🔗](https://blog.naver.com/904log/223729191595)|
+|274|[다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863)|Lv.0|2025.01.17|[🔗](https://blog.naver.com/904log/223729195349)|
+|275|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|Lv.1|2025.01.17|[🔗](https://blog.naver.com/904log/223729197646)|
 ### 백준
