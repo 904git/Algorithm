@@ -278,4 +278,14 @@
 |273|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|Lv.1|2025.01.17|[🔗](https://blog.naver.com/904log/223729191595)|
 |274|[다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863)|Lv.0|2025.01.17|[🔗](https://blog.naver.com/904log/223729195349)|
 |275|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|Lv.1|2025.01.17|[🔗](https://blog.naver.com/904log/223729197646)|
+|276|[배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)|Lv.0|2025.01.20|[🔗](https://blog.naver.com/904log/223731692924)|
+|277|[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)|Lv.1|2025.01.20|[🔗](https://blog.naver.com/904log/223731695567)|
+|278|[k번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|Lv.1|2025.01.20|[🔗](https://blog.naver.com/904log/223731697473)|
+|279|[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|Lv.1|2025.01.20|[🔗](https://blog.naver.com/904log/223731701258)|
+|280|[명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)|Lv.1|2025.01.20|[🔗](https://blog.naver.com/904log/223731704426)|
+|281|[문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)|Lv.0|2025.01.20|[🔗](https://blog.naver.com/904log/223731706089)|
+|282|[[PCCE 기출문제] 1번 / 출력](https://school.programmers.co.kr/learn/courses/30/lessons/250133)|Lv.0|2025.01.20|[🔗](https://blog.naver.com/904log/223731708348)|
+|283|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|Lv.2|2025.01.20|[🔗](https://blog.naver.com/904log/223731716047)|
+|284|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|Lv.2|2025.01.20|[🔗](https://blog.naver.com/904log/223731727955)|
+|285|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|Lv.2|2025.01.20|[🔗](https://blog.naver.com/904log/223731739523)|
 ### 백준
