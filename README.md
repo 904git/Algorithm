@@ -288,4 +288,9 @@
 |283|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|Lv.2|2025.01.20|[🔗](https://blog.naver.com/904log/223731716047)|
 |284|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|Lv.2|2025.01.20|[🔗](https://blog.naver.com/904log/223731727955)|
 |285|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|Lv.2|2025.01.20|[🔗](https://blog.naver.com/904log/223731739523)|
+|286|[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|Lv.2|2025.01.21|[🔗](https://blog.naver.com/904log/223732828556)|
+|287|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|Lv.2|2025.01.21|[🔗](https://blog.naver.com/904log/223732832474)|
+|288|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)|Lv.1|2025.01.21|[🔗](https://blog.naver.com/904log/223732839361)|
+|289|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|Lv.2|2025.01.21|[🔗](https://blog.naver.com/904log/223732855172)|
+|290|[카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)|Lv.1|2025.01.21|[🔗](https://blog.naver.com/904log/223732860831)|
 ### 백준
