@@ -293,4 +293,14 @@
 |288|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)|Lv.1|2025.01.21|[🔗](https://blog.naver.com/904log/223732839361)|
 |289|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|Lv.2|2025.01.21|[🔗](https://blog.naver.com/904log/223732855172)|
 |290|[카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)|Lv.1|2025.01.21|[🔗](https://blog.naver.com/904log/223732860831)|
+|291|[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|Lv.1|2025.01.22|[🔗](https://blog.naver.com/904log/223734157701)|
+|292|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|Lv.2|2025.01.22|[🔗](https://blog.naver.com/904log/223734290053)|
+|293|[최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)|Lv.0|2025.01.22|[🔗](https://blog.naver.com/904log/223734299573)|
+|294|[OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)|Lv.0|2025.01.22|[🔗](https://blog.naver.com/904log/223734303261)|
+|295|[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|Lv.2|2025.01.22|[🔗](https://blog.naver.com/904log/223734309342)|
+|296|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|Lv.2|2025.01.22|[🔗](https://blog.naver.com/904log/223734312409)|
+|297|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|Lv.2|2025.01.22|[🔗](https://blog.naver.com/904log/223734317644)|
+|298|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|Lv.2|2025.01.22|[🔗](https://blog.naver.com/904log/223734324559)|
+|299|[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|Lv.1|2025.01.22|[🔗](https://blog.naver.com/904log/223734329320)|
+|300|[행렬의 곱셉](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|Lv.2|2025.01.22|[🔗](https://blog.naver.com/904log/223734332342)|
 ### 백준
