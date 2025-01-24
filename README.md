@@ -303,4 +303,5 @@
 |298|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|Lv.2|2025.01.22|[🔗](https://blog.naver.com/904log/223734324559)|
 |299|[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|Lv.1|2025.01.22|[🔗](https://blog.naver.com/904log/223734329320)|
 |300|[행렬의 곱셉](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|Lv.2|2025.01.22|[🔗](https://blog.naver.com/904log/223734332342)|
+|301|[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|Lv.2|2025.01.24|[🔗]()|
 ### 백준
