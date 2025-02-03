@@ -303,5 +303,8 @@
 |298|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|Lv.2|2025.01.22|[🔗](https://blog.naver.com/904log/223734324559)|
 |299|[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|Lv.1|2025.01.22|[🔗](https://blog.naver.com/904log/223734329320)|
 |300|[행렬의 곱셉](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|Lv.2|2025.01.22|[🔗](https://blog.naver.com/904log/223734332342)|
-|301|[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|Lv.2|2025.01.24|[🔗]()|
+|301|[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|Lv.2|2025.01.24|[🔗](https://blog.naver.com/904log/223746076935)|
+|302|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747#fn1)|Lv.2|2025.02.03|[🔗](https://blog.naver.com/904log/223746121317)|
+|303|[다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|Lv.0|2025.02.03|[🔗](https://blog.naver.com/904log/223746131906)|
+|304|[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)|Lv.1|2025.02.03|[🔗](https://blog.naver.com/904log/223746139628)|
 ### 백준
