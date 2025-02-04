@@ -307,4 +307,7 @@
 |302|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747#fn1)|Lv.2|2025.02.03|[🔗](https://blog.naver.com/904log/223746121317)|
 |303|[다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|Lv.0|2025.02.03|[🔗](https://blog.naver.com/904log/223746131906)|
 |304|[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)|Lv.1|2025.02.03|[🔗](https://blog.naver.com/904log/223746139628)|
+|305|[2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)|Lv.1|2025.02.04|[🔗](https://blog.naver.com/904log/223747388795)|
+|306|[[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|Lv.2|2025.02.04|[🔗](https://blog.naver.com/904log/223747395776)|
+|307|[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|Lv.2|2025.02.04|[🔗](https://blog.naver.com/904log/223747431324)|
 ### 백준
