@@ -311,4 +311,7 @@
 |306|[[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|Lv.2|2025.02.04|[🔗](https://blog.naver.com/904log/223747395776)|
 |307|[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|Lv.2|2025.02.04|[🔗](https://blog.naver.com/904log/223747431324)|
 |308|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|Lv.1|2025.02.05|[🔗](https://blog.naver.com/904log/223749045432)|
+|309|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|Lv.2|2025.02.06|[🔗](https://blog.naver.com/904log/223750027622)|
+|310|[연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)|Lv.0|2025.02.06|[🔗](https://blog.naver.com/904log/223750048473)|
+|311|[[PCCE 기출문제] 8번 / 창고 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250126)|Lv.0|2025.02.06|[🔗](https://blog.naver.com/904log/223750053692)|
 ### 백준
