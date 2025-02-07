@@ -314,4 +314,7 @@
 |309|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|Lv.2|2025.02.06|[🔗](https://blog.naver.com/904log/223750027622)|
 |310|[연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)|Lv.0|2025.02.06|[🔗](https://blog.naver.com/904log/223750048473)|
 |311|[[PCCE 기출문제] 8번 / 창고 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250126)|Lv.0|2025.02.06|[🔗](https://blog.naver.com/904log/223750053692)|
+|312|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|Lv.2|2025.02.07|[🔗](https://blog.naver.com/904log/223751561869)|
+|313|[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|Lv.2|2025.02.07|[🔗](https://blog.naver.com/904log/223751579999)|
+|314|[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|Lv.2|2025.02.07|[🔗](https://blog.naver.com/904log/223751589332)|
 ### 백준
