@@ -316,5 +316,9 @@
 |311|[[PCCE 기출문제] 8번 / 창고 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250126)|Lv.0|2025.02.06|[🔗](https://blog.naver.com/904log/223750053692)|
 |312|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|Lv.2|2025.02.07|[🔗](https://blog.naver.com/904log/223751561869)|
 |313|[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|Lv.2|2025.02.07|[🔗](https://blog.naver.com/904log/223751579999)|
-|314|[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|Lv.2|2025.02.07|[🔗](https://blog.naver.com/904log/223751589332)|
+|314|[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|Lv.2|2025.02.07|[🔗](https://blog.naver.com/904log/223751589332)|
+|315|[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)|Lv.1|2025.02.10|[🔗](https://blog.naver.com/904log/223755490238)|
+|316|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|Lv.1|2025.02.10|[🔗](https://blog.naver.com/904log/223755492235)|
+|317|[소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)|Lv.1|2025.02.10|[🔗](https://blog.naver.com/904log/223755495719)|
+|318|[[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|Lv.2|2025.02.10|[🔗](https://blog.naver.com/904log/223755501745)|
 ### 백준
