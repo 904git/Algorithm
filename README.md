@@ -321,7 +321,7 @@
 |316|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|Lv.1|2025.02.10|[🔗](https://blog.naver.com/904log/223755492235)|
 |317|[소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)|Lv.1|2025.02.10|[🔗](https://blog.naver.com/904log/223755495719)|
 |318|[[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|Lv.2|2025.02.10|[🔗](https://blog.naver.com/904log/223755501745)|
-|319|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|Lv.2|2025.02.11|[🔗]()|
-|320|[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)|Lv.1|2025.02.11|[🔗]()|
-|321|[[PCCE 기출문제] 6번/ 물 부족](https://school.programmers.co.kr/learn/courses/30/lessons/340202)|Lv.0|2025.02.11|[🔗]()|
+|319|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|Lv.2|2025.02.11|[🔗](https://blog.naver.com/904log/223757089005)|
+|320|[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)|Lv.1|2025.02.11|[🔗](https://blog.naver.com/904log/223757093228)|
+|321|[[PCCE 기출문제] 6번/ 물 부족](https://school.programmers.co.kr/learn/courses/30/lessons/340202)|Lv.0|2025.02.11|[🔗](https://blog.naver.com/904log/223757096131)|
 ### 백준
