@@ -324,4 +324,5 @@
 |319|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|Lv.2|2025.02.11|[🔗](https://blog.naver.com/904log/223757089005)|
 |320|[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)|Lv.1|2025.02.11|[🔗](https://blog.naver.com/904log/223757093228)|
 |321|[[PCCE 기출문제] 6번/ 물 부족](https://school.programmers.co.kr/learn/courses/30/lessons/340202)|Lv.0|2025.02.11|[🔗](https://blog.naver.com/904log/223757096131)|
+|322|[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)|Lv.2|2025.02.12|[🔗](https://blog.naver.com/904log/223757811309)|
 ### 백준
