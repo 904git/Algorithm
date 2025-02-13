@@ -325,4 +325,6 @@
 |320|[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)|Lv.1|2025.02.11|[🔗](https://blog.naver.com/904log/223757093228)|
 |321|[[PCCE 기출문제] 6번/ 물 부족](https://school.programmers.co.kr/learn/courses/30/lessons/340202)|Lv.0|2025.02.11|[🔗](https://blog.naver.com/904log/223757096131)|
 |322|[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)|Lv.2|2025.02.12|[🔗](https://blog.naver.com/904log/223757811309)|
+|323|[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|Lv.2|2025.02.13|[🔗](https://blog.naver.com/904log/223759371580)|
+|324|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|Lv.1|2025.02.13|[🔗](https://blog.naver.com/904log/223759377983)|
 ### 백준
