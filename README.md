@@ -327,4 +327,7 @@
 |322|[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)|Lv.2|2025.02.12|[🔗](https://blog.naver.com/904log/223757811309)|
 |323|[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|Lv.2|2025.02.13|[🔗](https://blog.naver.com/904log/223759371580)|
 |324|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|Lv.1|2025.02.13|[🔗](https://blog.naver.com/904log/223759377983)|
+|325|[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|Lv.3|2025.02.14|[🔗](https://blog.naver.com/904log/223760545230)|
+|326|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|Lv.3|2025.02.14|[🔗](https://blog.naver.com/904log/223760550566)|
+|327|[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)|Lv.2|2025.02.14|[🔗](https://blog.naver.com/904log/223760565704)|
 ### 백준
