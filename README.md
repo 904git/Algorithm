@@ -333,4 +333,7 @@
 |328|[모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|Lv.2|2025.02.17|[🔗](https://blog.naver.com/904log/223763189680)|
 |329|[분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)|Lv.0|2025.02.17|[🔗](https://blog.naver.com/904log/223763194983)|
 |330|[안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)|Lv.0|2025.02.17|[🔗](https://blog.naver.com/904log/223763198261)|
+|331|[옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)|Lv.1|2025.02.18|[🔗](https://blog.naver.com/904log/223764844857)|
+|332|[k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|Lv.2|2025.02.18|[🔗](https://blog.naver.com/904log/223764853212)|
 ### 백준
+
