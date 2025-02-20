@@ -340,5 +340,8 @@
 |335|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|Lv.3|2025.02.19|[🔗](https://blog.naver.com/904log/223765784475)|
 |336|[[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|Lv.2|2025.02.20|[🔗](https://blog.naver.com/904log/223767263030)|
 |337|[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|Lv.3|2025.02.20|[🔗](https://blog.naver.com/904log/223767267239)|
+|338|[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|Lv.2|2025.02.21|[🔗](https://blog.naver.com/904log/223767952937)|
+|339|[주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916)|Lv.0|2025.02.21|[🔗](https://blog.naver.com/904log/223767956982)|
+|340|[더 맵게](http://school.programmers.co.kr/learn/courses/30/lessons/42626)|Lv.2|2025.02.21|[🔗](https://blog.naver.com/904log/223767958622)|
 ### 백준
 
