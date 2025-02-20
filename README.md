@@ -338,5 +338,7 @@
 |333|[[PCCE 기출문제] 9번 / 지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199)|Lv.1|2025.02.19|[🔗](https://blog.naver.com/904log/223765766615)|
 |334|[[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|Lv.2|2025.02.19|[🔗](https://blog.naver.com/904log/223765772379)|
 |335|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|Lv.3|2025.02.19|[🔗](https://blog.naver.com/904log/223765784475)|
+|336|[[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|Lv.2|2025.02.20|[🔗](https://blog.naver.com/904log/223767263030)|
+|337|[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|Lv.3|2025.02.20|[🔗](https://blog.naver.com/904log/223767267239)|
 ### 백준
 
