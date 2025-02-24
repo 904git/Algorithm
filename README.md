@@ -343,5 +343,7 @@
 |338|[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|Lv.2|2025.02.21|[🔗](https://blog.naver.com/904log/223767952937)|
 |339|[주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916)|Lv.0|2025.02.21|[🔗](https://blog.naver.com/904log/223767956982)|
 |340|[더 맵게](http://school.programmers.co.kr/learn/courses/30/lessons/42626)|Lv.2|2025.02.21|[🔗](https://blog.naver.com/904log/223767958622)|
+|341|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|Lv.2|2025.02.24|[🔗](https://blog.naver.com/904log/223771770120)|
+|342|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|Lv.2|2025.02.24|[🔗](https://blog.naver.com/904log/223771776679)|
 ### 백준
 
