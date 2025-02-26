@@ -347,5 +347,8 @@
 |342|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|Lv.2|2025.02.24|[🔗](https://blog.naver.com/904log/223771776679)|
 |343|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|Lv.3|2025.02.25|[🔗](https://blog.naver.com/904log/223772961303)|
 |344|[스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)|Lv.2|2025.02.25|[🔗](https://blog.naver.com/904log/223772969849)|
+|345|[겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)|Lv.0|2025.02.26|[🔗](https://blog.naver.com/904log/223775010482)|
+|346|[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|Lv.2|2025.02.26|[🔗](https://blog.naver.com/904log/223775015526)|
+|347|[[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|Lv.1|2025.02.26|[🔗](https://blog.naver.com/904log/223775045045)|
 ### 백준
 
