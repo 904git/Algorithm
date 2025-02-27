@@ -350,5 +350,7 @@
 |345|[겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)|Lv.0|2025.02.26|[🔗](https://blog.naver.com/904log/223775010482)|
 |346|[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|Lv.2|2025.02.26|[🔗](https://blog.naver.com/904log/223775015526)|
 |347|[[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|Lv.1|2025.02.26|[🔗](https://blog.naver.com/904log/223775045045)|
+|348|[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|Lv.2|2025.02.27|[🔗](https://blog.naver.com/904log/223776633554)|
+|349|[[PCCE 기출문제] 7번 / 버스](https://school.programmers.co.kr/learn/courses/30/lessons/340201)|Lv.0|2025.02.27|[🔗](https://blog.naver.com/904log/223776638274)|
+|350|[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|Lv.3|2025.02.27|[🔗](https://blog.naver.com/904log/223776698474)|
 ### 백준
-
