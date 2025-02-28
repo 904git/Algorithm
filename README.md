@@ -353,4 +353,9 @@
 |348|[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|Lv.2|2025.02.27|[🔗](https://blog.naver.com/904log/223776633554)|
 |349|[[PCCE 기출문제] 7번 / 버스](https://school.programmers.co.kr/learn/courses/30/lessons/340201)|Lv.0|2025.02.27|[🔗](https://blog.naver.com/904log/223776638274)|
 |350|[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|Lv.3|2025.02.27|[🔗](https://blog.naver.com/904log/223776698474)|
+|351|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|Lv.1|2025.02.28|[🔗](https://blog.naver.com/904log/223778139439)|
+|352|[문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)|Lv.1|2025.02.28|[🔗](https://blog.naver.com/904log/223778142282)|
+|353|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|Lv.1|2025.02.28|[🔗](https://blog.naver.com/904log/223778148648)|
+|354|[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)|Lv.1|2025.02.28|[🔗](https://blog.naver.com/904log/223778160661)|
+|355|[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|Lv.2|2025.02.28|[🔗](https://blog.naver.com/904log/223778167722)|
 ### 백준
