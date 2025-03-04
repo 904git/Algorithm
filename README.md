@@ -358,4 +358,9 @@
 |353|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|Lv.1|2025.02.28|[🔗](https://blog.naver.com/904log/223778148648)|
 |354|[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)|Lv.1|2025.02.28|[🔗](https://blog.naver.com/904log/223778160661)|
 |355|[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|Lv.2|2025.02.28|[🔗](https://blog.naver.com/904log/223778167722)|
+|356|[[PCCE 기출문제] 9번 / 이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125)|Lv.1|2025.03.04|[🔗](https://blog.naver.com/904log/223783203956)|
+|357|[최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|Lv.3|2025.03.04|[🔗](https://blog.naver.com/904log/223783224508)|
+|358|[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)|Lv.3|2025.03.04|[🔗](https://blog.naver.com/904log/223783233755)|
+|359|[[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|Lv.2|2025.03.04|[🔗](https://blog.naver.com/904log/223783255932)|
+|360|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|Lv.1|2025.03.04|[🔗](https://blog.naver.com/904log/223783262104)|
 ### 백준
