@@ -363,4 +363,9 @@
 |358|[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)|Lv.3|2025.03.04|[🔗](https://blog.naver.com/904log/223783233755)|
 |359|[[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|Lv.2|2025.03.04|[🔗](https://blog.naver.com/904log/223783255932)|
 |360|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|Lv.1|2025.03.04|[🔗](https://blog.naver.com/904log/223783262104)|
+|361|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|Lv.2|2025.03.05|[🔗](https://blog.naver.com/904log/223784545052)|
+|362|[[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)|Lv.2|2025.03.05|[🔗](https://blog.naver.com/904log/223784551358)|
+|363|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|Lv.1|2025.03.05|[🔗](https://blog.naver.com/904log/223784556054)|
+|364|[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|Lv.3|2025.03.05|[🔗](https://blog.naver.com/904log/223784563308)|
+|365|[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|Lv.1|2025.03.05|[🔗](https://blog.naver.com/904log/223784567819)|
 ### 백준
