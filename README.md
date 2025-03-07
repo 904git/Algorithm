@@ -370,7 +370,7 @@
 |365|[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|Lv.1|2025.03.05|[🔗](https://blog.naver.com/904log/223784567819)|
 |366|[2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)|Lv.2|2025.03.06|[🔗](https://blog.naver.com/904log/223785975580)|
 |367|[2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)|Lv.2|2025.03.06|[🔗](https://blog.naver.com/904log/223785997047)|
-|368|[햄버거 만들기]()|Lv.1|2025.03.06|[🔗]()|
-|369|[기지국 설치]()|Lv.3|2025.03.06|[🔗]()|
-|370|[가장 큰 수]()|Lv.2|2025.03.06|[🔗]()|
+|368|[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)|Lv.1|2025.03.07|[🔗](https://blog.naver.com/904log/223787653493)|
+|369|[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)|Lv.3|2025.03.07|[🔗](https://blog.naver.com/904log/223787661370)|
+|370|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|Lv.2|2025.03.07|[🔗](https://blog.naver.com/904log/223787666132)|
 ### 백준
