@@ -373,4 +373,7 @@
 |368|[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)|Lv.1|2025.03.07|[🔗](https://blog.naver.com/904log/223787653493)|
 |369|[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)|Lv.3|2025.03.07|[🔗](https://blog.naver.com/904log/223787661370)|
 |370|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|Lv.2|2025.03.07|[🔗](https://blog.naver.com/904log/223787666132)|
+|371|[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|Lv.2|2025.03.10|[🔗](https://blog.naver.com/904log/223790469694)|
+|372|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|Lv.2|2025.03.10|[🔗](https://blog.naver.com/904log/223790475272)|
+|373|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|Lv.2|2025.03.10|[🔗](https://blog.naver.com/904log/223790477594)|
 ### 백준
