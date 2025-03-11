@@ -376,4 +376,6 @@
 |371|[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|Lv.2|2025.03.10|[🔗](https://blog.naver.com/904log/223790469694)|
 |372|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|Lv.2|2025.03.10|[🔗](https://blog.naver.com/904log/223790475272)|
 |373|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|Lv.2|2025.03.10|[🔗](https://blog.naver.com/904log/223790477594)|
+|374|[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|Lv.3|2025.03.11|[🔗](https://blog.naver.com/904log/223792100620)|
+|375|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|Lv.2|2025.03.11|[🔗](https://blog.naver.com/904log/223792105843)|
 ### 백준
