@@ -378,4 +378,5 @@
 |373|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|Lv.2|2025.03.10|[🔗](https://blog.naver.com/904log/223790477594)|
 |374|[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|Lv.3|2025.03.11|[🔗](https://blog.naver.com/904log/223792100620)|
 |375|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|Lv.2|2025.03.11|[🔗](https://blog.naver.com/904log/223792105843)|
+|376|[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|Lv.2|2025.03.12|[🔗]()|
 ### 백준
