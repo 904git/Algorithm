@@ -378,5 +378,7 @@
 |373|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|Lv.2|2025.03.10|[🔗](https://blog.naver.com/904log/223790477594)|
 |374|[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|Lv.3|2025.03.11|[🔗](https://blog.naver.com/904log/223792100620)|
 |375|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|Lv.2|2025.03.11|[🔗](https://blog.naver.com/904log/223792105843)|
-|376|[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|Lv.2|2025.03.12|[🔗]()|
+|376|[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|Lv.2|2025.03.12|[🔗](https://blog.naver.com/904log/223793712976)|
+|377|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)|Lv.2|2025.03.13|[🔗](https://blog.naver.com/904log/223796210063)|
+|378|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|Lv.1|2025.03.14|[🔗](https://blog.naver.com/904log/223796222257)|
 ### 백준
