@@ -381,4 +381,8 @@
 |376|[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|Lv.2|2025.03.12|[🔗](https://blog.naver.com/904log/223793712976)|
 |377|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)|Lv.2|2025.03.13|[🔗](https://blog.naver.com/904log/223796210063)|
 |378|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|Lv.1|2025.03.14|[🔗](https://blog.naver.com/904log/223796222257)|
+|379|[[PCCE 기출문제] 10번 / 데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121)|Lv.1|2025.03.17|[🔗](https://blog.naver.com/904log/223799742124)|
+|380|[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|Lv.0|2025.03.17|[🔗](https://blog.naver.com/904log/223799744114)|
+|381|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|Lv.2|2025.03.17|[🔗](https://blog.naver.com/904log/223799747425)|
+|382|[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|Lv.2|2025.03.17|[🔗](https://blog.naver.com/904log/223799752046)|
 ### 백준
