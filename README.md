@@ -385,4 +385,6 @@
 |380|[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|Lv.0|2025.03.17|[🔗](https://blog.naver.com/904log/223799744114)|
 |381|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|Lv.2|2025.03.17|[🔗](https://blog.naver.com/904log/223799747425)|
 |382|[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|Lv.2|2025.03.17|[🔗](https://blog.naver.com/904log/223799752046)|
+|383|[스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)|Lv.3|2025.03.18|[🔗](https://blog.naver.com/904log/223801034603)|
+|384|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|Lv.1|2025.03.18|[🔗](https://blog.naver.com/904log/223801044428)|
 ### 백준
