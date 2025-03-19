@@ -387,4 +387,10 @@
 |382|[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|Lv.2|2025.03.17|[🔗](https://blog.naver.com/904log/223799752046)|
 |383|[스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)|Lv.3|2025.03.18|[🔗](https://blog.naver.com/904log/223801034603)|
 |384|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|Lv.1|2025.03.18|[🔗](https://blog.naver.com/904log/223801044428)|
+|385|[시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)|Lv.2|2025.03.19|[🔗](https://blog.naver.com/904log/223802454320)|
+|386|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|Lv.1|2025.03.19|[🔗](https://blog.naver.com/904log/223802463243)|
+|387|[서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)|Lv.2|2025.03.19|[🔗](https://blog.naver.com/904log/223802472196)|
+|388|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|Lv.2|2025.03.19|[🔗](https://blog.naver.com/904log/223802475071)|
+|389|[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|Lv.2|2025.03.19|[🔗](https://blog.naver.com/904log/223802479003)|
+|390|[숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)|Lv.2|2025.03.19|[🔗](https://blog.naver.com/904log/223802503234)|
 ### 백준
