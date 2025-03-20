@@ -393,4 +393,6 @@
 |388|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|Lv.2|2025.03.19|[🔗](https://blog.naver.com/904log/223802475071)|
 |389|[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|Lv.2|2025.03.19|[🔗](https://blog.naver.com/904log/223802479003)|
 |390|[숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)|Lv.2|2025.03.19|[🔗](https://blog.naver.com/904log/223802503234)|
+|391|[124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|Lv.2|2025.03.20|[🔗](https://blog.naver.com/904log/223803725891)|
+|392|[배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)|Lv.2|2025.03.20|[🔗](https://blog.naver.com/904log/223803811300)|
 ### 백준
