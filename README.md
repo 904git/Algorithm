@@ -396,4 +396,5 @@
 |391|[124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|Lv.2|2025.03.20|[🔗](https://blog.naver.com/904log/223803725891)|
 |392|[배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)|Lv.2|2025.03.20|[🔗](https://blog.naver.com/904log/223803811300)|
 |393|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|Lv.3|2025.03.21|[🔗](https://blog.naver.com/904log/223804601844)|
+|394|[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|Lv.3|2025.03.24|[🔗](https://blog.naver.com/904log/223808143802)|
 ### 백준
