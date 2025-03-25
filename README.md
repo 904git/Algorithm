@@ -397,4 +397,8 @@
 |392|[배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)|Lv.2|2025.03.20|[🔗](https://blog.naver.com/904log/223803811300)|
 |393|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|Lv.3|2025.03.21|[🔗](https://blog.naver.com/904log/223804601844)|
 |394|[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|Lv.3|2025.03.24|[🔗](https://blog.naver.com/904log/223808143802)|
+|395|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|Lv.1|2025.03.25|[🔗](https://blog.naver.com/904log/223809525585)|
+|396|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|Lv.2|2025.03.25|[🔗](https://blog.naver.com/904log/223809531993)|
+|397|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|Lv.2|2025.03.25|[🔗](https://blog.naver.com/904log/223809537042)|
+|398|[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|Lv.1|2025.03.25|[🔗](https://blog.naver.com/904log/223809541837)|
 ### 백준
