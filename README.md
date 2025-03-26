@@ -401,4 +401,8 @@
 |396|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|Lv.2|2025.03.25|[🔗](https://blog.naver.com/904log/223809531993)|
 |397|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|Lv.2|2025.03.25|[🔗](https://blog.naver.com/904log/223809537042)|
 |398|[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|Lv.1|2025.03.25|[🔗](https://blog.naver.com/904log/223809541837)|
+|399|[[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)|Lv.2|2025.03.26|[🔗](https://blog.naver.com/904log/223810701254)|
+|400|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|Lv.3|2025.03.26|[🔗](https://blog.naver.com/904log/223810706009)|
+|401|[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)|Lv.3|2025.03.26|[🔗](https://blog.naver.com/904log/223810751383)|
+|402|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|Lv.2|2025.03.26|[🔗](https://blog.naver.com/904log/223810754280)|
 ### 백준
