@@ -405,4 +405,6 @@
 |400|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|Lv.3|2025.03.26|[🔗](https://blog.naver.com/904log/223810706009)|
 |401|[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)|Lv.3|2025.03.26|[🔗](https://blog.naver.com/904log/223810751383)|
 |402|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|Lv.2|2025.03.26|[🔗](https://blog.naver.com/904log/223810754280)|
+|403|[리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)|Lv.2|2025.03.27|[🔗](https://blog.naver.com/904log/223811865616)|
+|404|[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)|Lv.2|2025.03.27|[🔗](https://blog.naver.com/904log/223811958006)|
 ### 백준
