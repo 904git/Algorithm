@@ -408,4 +408,6 @@
 |403|[리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)|Lv.2|2025.03.27|[🔗](https://blog.naver.com/904log/223811865616)|
 |404|[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)|Lv.2|2025.03.27|[🔗](https://blog.naver.com/904log/223811958006)|
 |405|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|Lv.3|2025.03.28|[🔗](https://blog.naver.com/904log/223813150473)|
+|406|[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|Lv.3|2025.03.31|[🔗](https://blog.naver.com/904log/223816234919)|
+|407|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|Lv.2|2025.03.31|[🔗](https://blog.naver.com/904log/223816245432)|
 ### 백준
