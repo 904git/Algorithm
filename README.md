@@ -410,4 +410,6 @@
 |405|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|Lv.3|2025.03.28|[🔗](https://blog.naver.com/904log/223813150473)|
 |406|[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|Lv.3|2025.03.31|[🔗](https://blog.naver.com/904log/223816234919)|
 |407|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|Lv.2|2025.03.31|[🔗](https://blog.naver.com/904log/223816245432)|
+|408|[수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|Lv.2|2025.04.01|[🔗](https://blog.naver.com/904log/223817730747)|
+|409|[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)|Lv.2|2025.04.01|[🔗](https://blog.naver.com/904log/223817745422)|
 ### 백준
