@@ -413,4 +413,6 @@
 |408|[수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|Lv.2|2025.04.01|[🔗](https://blog.naver.com/904log/223817730747)|
 |409|[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)|Lv.2|2025.04.01|[🔗](https://blog.naver.com/904log/223817745422)|
 |410|[디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)|Lv.2|2025.04.02|[🔗](https://blog.naver.com/904log/223819440592)|
+|411|[테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)|Lv.2|2025.04.03|[🔗](https://blog.naver.com/904log/223820761978)|
+|412|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|Lv.1|2025.04.03|[🔗](https://blog.naver.com/904log/223820769572)|
 ### 백준
