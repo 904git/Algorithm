@@ -417,4 +417,5 @@
 |412|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|Lv.1|2025.04.03|[🔗](https://blog.naver.com/904log/223820769572)|
 |413|[가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)|Lv.2|2025.04.04|[🔗](https://blog.naver.com/904log/223821887861)|
 |414|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|Lv.2|2025.04.04|[🔗](https://blog.naver.com/904log/223821894240)|
+|415|[부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)|Lv.3|2025.04.07|[🔗](https://blog.naver.com/904log/223825112644)|
 ### 백준
