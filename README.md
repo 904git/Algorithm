@@ -418,4 +418,5 @@
 |413|[가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)|Lv.2|2025.04.04|[🔗](https://blog.naver.com/904log/223821887861)|
 |414|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|Lv.2|2025.04.04|[🔗](https://blog.naver.com/904log/223821894240)|
 |415|[부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)|Lv.3|2025.04.07|[🔗](https://blog.naver.com/904log/223825112644)|
+|416|[연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)|Lv.3|2025.04.08|[🔗](https://blog.naver.com/904log/223826426851)|
 ### 백준
