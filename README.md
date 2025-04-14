@@ -423,4 +423,5 @@
 |418|[정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832)|Lv.0|2025.04.09|[🔗](https://blog.naver.com/904log/223827421338)|
 |419|[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|Lv.3|2025.04.10|[🔗](https://blog.naver.com/904log/223828611321)|
 |420|[유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)|Lv.1|2025.04.11|[🔗](https://blog.naver.com/904log/223830113964)|
+|421|[하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)|Lv.2|2025.04.14|[🔗](https://blog.naver.com/904log/223832606908)|
 ### 백준
