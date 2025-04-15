@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class 카카오인턴_보석쇼핑 {
+public class 보석쇼핑 {
 	public static void main(String[] args) {
 		String[] gems = { "DIA", "RUBY", "RUBY", "DIA", "DIA", "EMERALD", "SAPPHIRE", "DIA" };
 		System.out.println(Arrays.toString(solution(gems)));

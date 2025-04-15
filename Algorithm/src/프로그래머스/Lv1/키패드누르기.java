@@ -1,6 +1,6 @@
 package 프로그래머스.Lv1;
 
-public class 카카오인턴_키패드누르기 {
+public class 키패드누르기 {
 	public static void main(String[] args) {
 		int[] numbers = { 1, 6, 2, 3, 1 };
 		String hand = "right";
