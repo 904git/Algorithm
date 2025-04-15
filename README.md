@@ -424,4 +424,5 @@
 |419|[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|Lv.3|2025.04.10|[🔗](https://blog.naver.com/904log/223828611321)|
 |420|[유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)|Lv.1|2025.04.11|[🔗](https://blog.naver.com/904log/223830113964)|
 |421|[하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)|Lv.2|2025.04.14|[🔗](https://blog.naver.com/904log/223832606908)|
+|422|[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)|Lv.3|2025.04.15|[🔗](https://blog.naver.com/904log/223833811517)|
 ### 백준
