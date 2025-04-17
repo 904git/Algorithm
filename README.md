@@ -426,4 +426,5 @@
 |421|[하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)|Lv.2|2025.04.14|[🔗](https://blog.naver.com/904log/223832606908)|
 |422|[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)|Lv.3|2025.04.15|[🔗](https://blog.naver.com/904log/223833811517)|
 |423|[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)|Lv.1|2025.04.16|[🔗](https://blog.naver.com/904log/223835654363)|
+|424|[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|Lv.3|2025.04.17|[🔗](https://blog.naver.com/904log/223837596253)|
 ### 백준
