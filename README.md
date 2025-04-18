@@ -427,4 +427,5 @@
 |422|[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)|Lv.3|2025.04.15|[🔗](https://blog.naver.com/904log/223833811517)|
 |423|[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)|Lv.1|2025.04.16|[🔗](https://blog.naver.com/904log/223835654363)|
 |424|[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|Lv.3|2025.04.17|[🔗](https://blog.naver.com/904log/223837596253)|
+|425|[우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)|Lv.2|2025.04.18|[🔗](https://blog.naver.com/904log/223838778949)|
 ### 백준
