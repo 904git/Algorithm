@@ -428,4 +428,5 @@
 |423|[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)|Lv.1|2025.04.16|[🔗](https://blog.naver.com/904log/223835654363)|
 |424|[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|Lv.3|2025.04.17|[🔗](https://blog.naver.com/904log/223837596253)|
 |425|[우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)|Lv.2|2025.04.18|[🔗](https://blog.naver.com/904log/223838778949)|
+|426|[가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)|Lv.3|2025.04.21|[🔗](https://blog.naver.com/904log/223841459879)|
 ### 백준
