@@ -430,4 +430,5 @@
 |425|[우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)|Lv.2|2025.04.18|[🔗](https://blog.naver.com/904log/223838778949)|
 |426|[가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)|Lv.3|2025.04.21|[🔗](https://blog.naver.com/904log/223841459879)|
 |427|[다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|Lv.3|2025.04.22|[🔗](https://blog.naver.com/904log/223842393060)|
+|428|[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|Lv.2|2025.04.23|[🔗](https://blog.naver.com/904log/223843664678)|
 ### 백준
