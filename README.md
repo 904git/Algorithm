@@ -432,5 +432,6 @@
 |427|[다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|Lv.3|2025.04.22|[🔗](https://blog.naver.com/904log/223842393060)|
 |428|[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|Lv.2|2025.04.23|[🔗](https://blog.naver.com/904log/223843664678)|
 |429|[[1차] 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)|Lv.3|2025.04.24|[🔗](https://blog.naver.com/904log/223845322072)|
-|429|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|Lv.2|2025.04.25|[🔗](https://blog.naver.com/904log/223845990713)|
+|430|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|Lv.2|2025.04.25|[🔗](https://blog.naver.com/904log/223845990713)|
+|431|[멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)|Lv.2|2025.04.28|[🔗](https://blog.naver.com/904log/223848812187)|
 ### 백준
