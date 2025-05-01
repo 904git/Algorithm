@@ -436,4 +436,5 @@
 |431|[멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)|Lv.2|2025.04.28|[🔗](https://blog.naver.com/904log/223848812187)|
 |432|[거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907)|Lv.3|2025.04.29|[🔗](https://blog.naver.com/904log/223849748441)|
 |433|[풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)|Lv.3|2025.04.30|[🔗](https://blog.naver.com/904log/223850836647)|
+|434|[[PCCP 기출문제] 2번 / 퍼즐 게임 챌린](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|Lv.2|2025.05.01|[🔗](https://blog.naver.com/904log/223852252901)|
 ### 백준
