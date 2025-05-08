@@ -439,4 +439,5 @@
 |434|[[PCCP 기출문제] 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|Lv.2|2025.05.01|[🔗](https://blog.naver.com/904log/223852252901)|
 |435|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|Lv.3|2025.05.02|[🔗](https://blog.naver.com/904log/223853742741)|
 |436|[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|Lv.3|2025.05.07|[🔗](https://blog.naver.com/904log/223858249944)|
+|437|[점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)|Lv.2|2025.05.08|[🔗](https://blog.naver.com/904log/223859454296)|
 ### 백준
