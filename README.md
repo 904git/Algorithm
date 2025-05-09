@@ -440,4 +440,5 @@
 |435|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|Lv.3|2025.05.02|[🔗](https://blog.naver.com/904log/223853742741)|
 |436|[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|Lv.3|2025.05.07|[🔗](https://blog.naver.com/904log/223858249944)|
 |437|[점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)|Lv.2|2025.05.08|[🔗](https://blog.naver.com/904log/223859454296)|
+|438|[인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)|Lv.3|2025.05.09|[🔗](https://blog.naver.com/904log/223860595843)|
 ### 백준
