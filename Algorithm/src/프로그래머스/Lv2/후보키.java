@@ -17,8 +17,8 @@ public class 후보키 {
 
 	static public int solution(String[][] relation) {
 		int answer = 0;
-		key = new ArrayList<>(); // 후보키 후보
-		hash = new HashSet<>(); // 유일성과 최소성을 만족하는 후보키
+		key = new ArrayList<>(); // 속성 집합
+		hash = new HashSet<>(); // 유일성과 최소성을 만족하는 후보키들
 		for (int i = 1; i <= relation[0].length; i++) { // 속성 개수를 늘려가며 후보키 찾기
 			comb(i, 0, 0, relation);
 		}
