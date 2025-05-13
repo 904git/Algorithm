@@ -442,4 +442,5 @@
 |437|[점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)|Lv.2|2025.05.08|[🔗](https://blog.naver.com/904log/223859454296)|
 |438|[인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)|Lv.3|2025.05.09|[🔗](https://blog.naver.com/904log/223860595843)|
 |439|[후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)|Lv.2|2025.05.12|[🔗](https://blog.naver.com/904log/223863466877)|
+|440|[[PCCE 기출문제] 10번 / 공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198)|Lv.1|2025.05.13|[🔗](https://blog.naver.com/904log/223864568071)|
 ### 백준
