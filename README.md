@@ -444,4 +444,5 @@
 |439|[후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)|Lv.2|2025.05.12|[🔗](https://blog.naver.com/904log/223863466877)|
 |440|[[PCCE 기출문제] 10번 / 공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198)|Lv.1|2025.05.13|[🔗](https://blog.naver.com/904log/223864568071)|
 |441|[[PCCP 기출문제] 1번 / 붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)|Lv.1|2025.05.14|[🔗](https://blog.naver.com/904log/223865680934)|
+|442|[지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)|Lv.2|2025.05.15|[🔗](코드 수정 중)|
 ### 백준
