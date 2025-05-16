@@ -15,34 +15,59 @@ public class 지게차와크레인 {
 	static public int solution(String[] storage, String[] requests) {
 		int N = storage.length, M = storage[0].length();
 		int answer = N * M;
-		int[][] map = new int[N + 2][M + 2];
+		int[][] map = new int[N + 2][M + 2]; // 외곽선 추가 및 숫자로 변경
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < M; j++) {
 				map[i + 1][j + 1] = storage[i].charAt(j) - 'A' + 1;
 			}
 		}
-		for (int i = 0; i < N + 2; i++) {
-			for (int j = 0; j < M + 2; j++) {
-				System.out.print(map[i][j] + " ");
-			}
-			System.out.println();
-		}
-		System.out.println("==================");
+		Queue<int[]> rm_containers = new LinkedList<>(); // 꺼낼 컨테이너 좌표 정보
 		for (int r = 0; r < requests.length; r++) {
 			int target = requests[r].charAt(0) - 'A' + 1;
-			if (1 < requests[r].length()) { // 크레인 사용으로 모든 타켓 컨테이너 제거
+			if (1 < requests[r].length()) { // 크레인 사용해서 모든 위치에 있는 타켓 컨테이너 제거
 				for (int i = 1; i <= N; i++) {
 					for (int j = 1; j <= M; j++) {
 						if (map[i][j] == target) {
-							map[i][j] = 0;
+							map[i][j] = -1;
+							rm_containers.add(new int[] { i, j });
+							answer -= 1;
 						}
 					}
 				}
-			} else { // 외곽에 있는 것만 제거
+			} else { // 외곽에 있는 타겟 컨테이너만 제거
+				for (int i = 0; i < N + 2; i++) {
+					for (int j = 0; j < M + 2; j++) {
+						if (map[i][j] == target && checkOutline(i, j, map)) {
+							map[i][j] = -1;
+							rm_containers.add(new int[] { i, j });
+							answer -= 1;
+						}
+					}
+				}
+			}
+			// 외부와 맞닿아있는 위치 갱신
+			boolean[][] visit = new boolean[N + 2][M + 2]; // 방문 확인
+			while (!rm_containers.isEmpty()) {
+				int size = rm_containers.size();
+				for (int s = 0; s < size; s++) {
+					int[] p = rm_containers.poll(); // 제거한 컨테이너의 위치가
 
+					if (checkOutline(p[0], p[1], map)) { // 외부와 맞닿아 있었다면
+						map[p[0]][p[1]] = 0; // 외곽으로 표시
+						visit[p[0]][p[1]] = true;
+
+						for (int d = 0; d < di.length; d++) { // 인접한 위치 중 비어있는 곳이 있다면 너비탐색(bfs)
+							int ni = p[0] + di[d];
+							int nj = p[1] + dj[d];
+
+							if (!visit[ni][nj] && map[ni][nj] == -1) {
+								rm_containers.add(new int[] { ni, nj });
+							}
+						}
+					}
+				}
 			}
 		}
-
 		return answer;
 	}
 
