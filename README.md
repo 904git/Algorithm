@@ -449,4 +449,5 @@
 |444|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|Lv.1|2025.05.26|[🔗](https://blog.naver.com/904log/223878694864)|
 |445|[두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)|Lv.2|2025.05.27|[🔗](https://blog.naver.com/904log/223880041665)|
 |446|[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|Lv.2|2025.05.29|[🔗](https://blog.naver.com/904log/223882382414)|
+|447|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|Lv.2|2025.05.30|[🔗](https://blog.naver.com/904log/223883497774)|
 ### 백준
