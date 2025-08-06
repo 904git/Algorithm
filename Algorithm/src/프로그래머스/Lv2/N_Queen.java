@@ -1,7 +1,5 @@
 package 프로그래머스.Lv2;
 
-import java.util.Arrays;
-
 public class N_Queen {
 	static int count;
 	static int[] dj = { -1, 0, 1 };
@@ -15,10 +13,41 @@ public class N_Queen {
 		int answer = 0;
 		count = 0;
 		int[][] map = new int[n][n];
-		int[][][] dir = new int[n][n][dj.length];
-		go(n, 0, map, dir);
+		boolean[] line = new boolean[n];
+		nQueen(n, 0, line, map);
 		answer = count;
 		return answer;
+	}
+
+	static void nQueen(int n, int cnt, boolean[] line, int[][] map) {
+		if (cnt == n) {
+			count += 1;
+			return;
+		}
+
+		for (int i = 0; i < n; i++) {
+			if (!line[i] && !check(cnt, i, map)) {
+				map[cnt][i] = 1;
+				line[i] = true;
+				nQueen(n, cnt + 1, line, map);
+				line[i] = false;
+				map[cnt][i] = 0;
+			}
+		}
+	}
+
+	static boolean check(int i, int j, int[][] map) {
+		for (int k = 0; 0 <= i - k && 0 <= j - k; k++) { // 왼쪽 대각선 확인
+			if (map[i - k][j - k] != 0) {
+				return true;
+			}
+		}
+		for (int k = 0; 0 <= i - k && j + k < map.length; k++) { // 오른쪽 대각선 확인
+			if (map[i - k][j + k] != 0) {
+				return true;
+			}
+		}
+		return false;
 	}
 
 	static void go(int n, int cnt, int[][] map, int[][][] dir) {
