@@ -25,10 +25,10 @@ public class N_Queen {
 		int result = 0;
 		for (int col = 0; col < n; col++) {
 			// 세로, 오른쪽 대각선, 왼쪽 대각선 확인
-			if (!colUsed[col] && !rightDiag[row + col] && !leftDiag[row - 1 + n - col]) {
-				colUsed[col] = rightDiag[row + col] = leftDiag[row - 1 + n - col] = true;
+			if (!colUsed[col] && !rightDiag[row + col] && !leftDiag[row - col + n - 1]) {
+				colUsed[col] = rightDiag[row + col] = leftDiag[row - col + n - 1] = true;
 				result += nQueen(n, row + 1, colUsed, rightDiag, leftDiag);
-				colUsed[col] = rightDiag[row + col] = leftDiag[row - 1 + n - col] = false;
+				colUsed[col] = rightDiag[row + col] = leftDiag[row - col + n - 1] = false;
 			}
 		}
 		return result;
