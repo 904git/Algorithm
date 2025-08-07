@@ -11,29 +11,27 @@ public class N_Queen {
 
 	static public int solution(int n) {
 		int answer = 0;
-		count = 0;
-		int[][] map = new int[n][n];
-		boolean[] line = new boolean[n];
-		nQueen(n, 0, line, map);
-		answer = count;
+		boolean[] col = new boolean[n]; // 세로줄 확인
+		boolean[] rightDiag = new boolean[2 * n - 1]; // 오른쪽대각선 확인
+		boolean[] leftDiag = new boolean[2 * n - 1]; // 왼쪽대각선 확인
+		answer = nQueen(n, 0, col, rightDiag, leftDiag);
 		return answer;
 	}
 
-	static void nQueen(int n, int cnt, boolean[] line, int[][] map) {
-		if (cnt == n) {
-			count += 1;
-			return;
+	static int nQueen(int n, int row, boolean[] colUsed, boolean[] rightDiag, boolean[] leftDiag) {
+		if (row == n) {
+			return 1;
 		}
-
-		for (int i = 0; i < n; i++) {
-			if (!line[i] && !check(cnt, i, map)) {
-				map[cnt][i] = 1;
-				line[i] = true;
-				nQueen(n, cnt + 1, line, map);
-				line[i] = false;
-				map[cnt][i] = 0;
+		int result = 0;
+		for (int col = 0; col < n; col++) {
+			// 세로, 오른쪽 대각선, 왼쪽 대각선 확인
+			if (!colUsed[col] && !rightDiag[row + col] && !leftDiag[row - 1 + n - col]) {
+				colUsed[col] = rightDiag[row + col] = leftDiag[row - 1 + n - col] = true;
+				result += nQueen(n, row + 1, colUsed, rightDiag, leftDiag);
+				colUsed[col] = rightDiag[row + col] = leftDiag[row - 1 + n - col] = false;
 			}
 		}
+		return result;
 	}
 
 	static boolean check(int i, int j, int[][] map) {
