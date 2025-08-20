@@ -452,4 +452,5 @@
 |447|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|Lv.2|2025.05.30|[🔗](https://blog.naver.com/904log/223883497774)|
 |448|[N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)|Lv.2|2025.08.07|[🔗](https://blog.naver.com/904log/223962873670)|
 |449|[[PCCP 기출문제] 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)|Lv.2|2025.08.08|[🔗](https://blog.naver.com/904log/223962996759)|
+|450|[비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|Lv.2|2025.08.20|[🔗](https://blog.naver.com/904log/223977424629)|
 ### 백준
