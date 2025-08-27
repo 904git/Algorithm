@@ -457,4 +457,5 @@
 |452|[[PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)|Lv.1|2025.08.22|[🔗](https://blog.naver.com/904log/223980000966)|
 |453|[숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)|Lv.2|2025.08.25|[🔗](https://blog.naver.com/904log/223983103817)|
 |454|[혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)|Lv.2|2025.08.26|[🔗](https://blog.naver.com/904log/223984304411)|
+|455|[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|Lv.0|2025.08.27|[🔗](https://blog.naver.com/904log/223985758676)|
 ### 백준
