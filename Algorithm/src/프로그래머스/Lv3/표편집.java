@@ -11,8 +11,45 @@ public class 표편집 {
 		System.out.println(solution(n, k, cmd));
 	}
 
-	// 시간초과
 	static public String solution(int n, int k, String[] cmd) {
+		String answer = "";
+		Stack<Integer> stack = new Stack<>();
+		int select = k; // 선택된 행 위치
+		int cnt = n; // 남아있는 행 수
+		for (int i = 0; i < cmd.length; i++) {
+			String[] str_split = cmd[i].split(" ");
+			if (str_split[0].equals("U")) { // 위로 이동
+				select -= Integer.parseInt(str_split[1]);
+			} else if (str_split[0].equals("D")) { // 아래로 이동
+				select += Integer.parseInt(str_split[1]);
+			} else if (str_split[0].equals("C")) { // 삭제
+				stack.add(select);
+				cnt -= 1;
+				if (cnt == select) { // 마지막 행 삭제시
+					select -= 1;
+				}
+			} else { // 복구
+				int idx = stack.pop();
+				cnt += 1;
+				if (idx <= select) {
+					select += 1;
+				}
+			}
+		}
+		StringBuffer sb = new StringBuffer();
+		for (int i = 0; i < cnt; i++) {
+			sb.append("O");
+		}
+		while (!stack.isEmpty()) {
+			int idx = stack.pop();
+			sb.insert(idx, "X");
+		}
+		answer = sb.toString();
+		return answer;
+	}
+
+	// 시간초과
+	static public String solution2(int n, int k, String[] cmd) {
 		String answer = "";
 		Stack<Integer> stack = new Stack<>();
 		List<Integer> list = new ArrayList<>();
