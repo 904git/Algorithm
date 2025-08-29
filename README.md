@@ -458,4 +458,5 @@
 |453|[숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)|Lv.2|2025.08.25|[🔗](https://blog.naver.com/904log/223983103817)|
 |454|[혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)|Lv.2|2025.08.26|[🔗](https://blog.naver.com/904log/223984304411)|
 |455|[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|Lv.0|2025.08.27|[🔗](https://blog.naver.com/904log/223985758676)|
+|456|[표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)|Lv.3|2025.08.29|[🔗](https://blog.naver.com/904log/223988289823)|
 ### 백준
