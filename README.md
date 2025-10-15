@@ -460,4 +460,5 @@
 |455|[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|Lv.0|2025.08.27|[🔗](https://blog.naver.com/904log/223985758676)|
 |456|[표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)|Lv.3|2025.08.29|[🔗](https://blog.naver.com/904log/223988289823)|
 |457|[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|Lv.3|2025.10.13|[🔗](https://blog.naver.com/904log/224039996846)|
+|458|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860?language=java)|Lv.2|2025.10.15|[🔗](https://blog.naver.com/904log/224042069044)|
 ### 백준
